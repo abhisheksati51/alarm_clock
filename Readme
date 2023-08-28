@@ -1,0 +1,6 @@
+In this project, I create an alarm clock using JavaScript with the following features:
+
+Display the current time on screen
+Allow users to set an alarm
+Display the alarm time once set
+Allow users to clear exisiting alarm
